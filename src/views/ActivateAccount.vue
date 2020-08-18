@@ -18,7 +18,7 @@
 
 <script>
   import axios from 'axios'
-  const API_SERVER = process.env.VUE_APP_API_HOST || "https://v-cosmic-auth.netlify.com/"
+  const API_SERVER = process.env.VUE_APP_API_HOST || "https://cocky-knuth-7e0ab9.netlify.app/"
   export default {
     data: () => ({
       activated: false
